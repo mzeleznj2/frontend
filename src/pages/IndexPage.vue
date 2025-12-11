@@ -40,6 +40,7 @@ const plants = [
   { label: 'Ella Textile', value: 'PPR1', warehouse: 'R10' },
   { label: 'Bytres', value: 'PPS1', warehouse: 'S10' },
   { label: '2M', value: 'PPM1', warehouse: 'M10' },
+  { label: 'Trever', value: 'PPO1', warehouse: 'O10' },
 ]
 
 watch(selectedPlant, (newValue) => {
